@@ -29,13 +29,6 @@ Focused on building scalable, efficient, and modern web applications
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rendel20&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## Contact
 - Email: your@email.com
 - Linkedin: https://www.linkedin.com/in/rendel-reyes-09259b340/
