@@ -38,20 +38,6 @@ Focused on building scalable, efficient, and modern web applications
 
 ---
 
-## Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rendel20&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rendel20/rendel20/output/snake.svg"/>
-</p>
-
----
-
 ## Contact
 - Email: your@email.com
 - Linkedin: https://www.linkedin.com/in/rendel-reyes-09259b340/
