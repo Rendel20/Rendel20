@@ -30,5 +30,6 @@ Focused on building scalable, efficient, and modern web applications
 ---
 
 ## Contact
-- Email: your@email.com
+- Email: rendelreyes399@email.com
 - Linkedin: https://www.linkedin.com/in/rendel-reyes-09259b340/
+- Port Folio: https://reyes-port-folio-new.vercel.app/
